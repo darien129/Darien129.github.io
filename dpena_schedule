@@ -1,0 +1,29 @@
+<html>
+        <head>
+        <title>Schedule</title>
+        </head>
+  <table>
+                  <tr>
+                          <td>Monday</td>
+                          <td>Tuesday</td>
+                          <td>Wednesday</td>
+                          <td>Thursday</td>
+                          <td>Friday</td>
+
+                    <tr>
+  
+<body>
+<tr>
+<td>Freshman Seminar</td>
+<td>CRYMA</td>
+<td>FReshman Seminar</td>
+<td>CRYMA</td>
+<td>Freshman Seminar</td>
+</tr>
+<tr>
+<td>Intro to Web Development</td>
+<td>Intro to Web Development</td>
+<td>Intro to Web Development</td>
+<td>Intro to Web Development</td>
+<td>Intro to Web Development</td>
+  

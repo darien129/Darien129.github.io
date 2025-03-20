@@ -1,9 +1,7 @@
-<html>html>
+<html>
 <head>
 <style>
-body {
-  background-color:lightblue;
-}
+
 
 h1 {
   color: white;
@@ -13,16 +11,28 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
 }
 </style>
 </head>
 <body>
 
-html>
+<html>
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color:lightblue;
+}
+
+
 }
 
 h1 {
@@ -110,7 +120,6 @@ p {
 </table>
 </body>
 </html>
-
 
 
 

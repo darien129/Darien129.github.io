@@ -2,18 +2,17 @@
 
 <html>
   <head>
-    <title>Mr. S Portfolio</title>
-    <link rel = "stylesheet" href = "SwotinskyJ_Portfolio_Styles.css">
+    <title>Darien's Portfolio</title>
+    <link rel = "stylesheet" href = "DarienP_Portfolio_Styles.css">
   </head>
   
   <body>
     <div class = header>
-      Mr. Swotinsky
+      Darien Pena
     </div>    
 
     <div class = header2>
-      Jswotinsky@schools.nyc.gov
-    </div>
+    darienp18@nycstudents.net    </div>
     <div class=main>
       <p>This is where I will write my about me.</p>
     </div>

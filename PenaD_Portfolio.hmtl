@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>Mr. S Portfolio</title>
+    <link rel = "stylesheet" href = "SwotinskyJ_Portfolio_Styles.css">
+  </head>
+  
+  <body>
+    <div class = header>
+      Mr. Swotinsky
+    </div>    
+
+    <div class = header2>
+      Jswotinsky@schools.nyc.gov
+    </div>
+    <div class=main>
+      <p>This is where I will write my about me.</p>
+    </div>
+  </body>
+
+
+</html>

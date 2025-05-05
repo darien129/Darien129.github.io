@@ -6,15 +6,15 @@
     <link rel = "stylesheet" href = "DarienP_Portfolio_Styles.css">
   </head>
   
-  <body>
-    <div class = header>
-      Darien Pena
+ <body>
+    <div class = topnav>
+      
     </div>    
 
     <div class = header2>
     darienp18@nycstudents.net    </div>
     <div class=main>
-      <p>This is where I will write my about me.</p>
+      <p>My name is Darien Pena. I am a student in Inwood Early College in the 9th grade. My short term goal is to get a 80 or above in most of my classes. My long term goal is to graduate from hgihschool.</p>
     </div>
   </body>
 
